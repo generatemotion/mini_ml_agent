@@ -1,13 +1,8 @@
-<img src="images/unity-wide.png" align="middle" width="3000"/>
+<img src="images/mini-ml-agent1.png" align="middle" width="3000"/>
 
-# Unity ML - Agents
+# Mini ML-Agents
 
-**Unity Machine Learning Agents** allows researchers and developers to
-create games and simulations using the Unity Editor which serve as
-environments where intelligent agents can be trained using
-reinforcement learning, neuroevolution, or other machine learning
-methods through a simple-to-use Python API. For more information, see
-the [wiki page](../../wiki).
+**Mini-ML-Agents** is based on ml-agents-0.1.1, and will as a learning courseware to explain how to implement a agent framework based on Unity.
 
 For a walkthrough on how to train an agent in one of the provided
 example environments, start

@@ -1,4 +1,4 @@
-<img src="images/mini-ml-agent1.png" align="middle" width="3000"/>
+<img src="images/mini-ml-agent.png" align="middle" width="3000"/>
 
 # Mini ML-Agents
 

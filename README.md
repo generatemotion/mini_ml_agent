@@ -4,9 +4,7 @@
 
 **Mini-ML-Agents** is based on ml-agents-0.1.1, and will as a learning courseware to explain how to implement a agent framework based on Unity.
 
-For a walkthrough on how to train an agent in one of the provided
-example environments, start
-[here](../../wiki/Getting-Started-with-Balance-Ball).
+
 
 ## Features
 * Unity Engine flexibility and simplicity
@@ -21,13 +19,11 @@ example environments, start
 
 The _Agents SDK_, including example environment scenes is located in
 `unity-environment` folder. For requirements, instructions, and other
-information, see the contained Readme and the relevant
-[wiki page](../../wiki/Making-a-new-Unity-Environment).
+information, see the contained Readme and the relevant.
 
 ## Training your Agents
 
 Once you've built a Unity Environment, example Reinforcement Learning
 algorithms and the Python API are available in the `python`
 folder. For requirements, instructions, and other information, see the
-contained Readme and the relevant
-[wiki page](../../wiki/Unity-Agents---Python-API).
+contained Readme and the relevant.

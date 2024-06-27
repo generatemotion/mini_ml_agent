@@ -18,8 +18,16 @@
 ## Creating an Environment
 
 The _Agents SDK_, including example environment scenes is located in
-`unity-environment` folder. For requirements, instructions, and other
-information, see the contained Readme and the relevant.
+`unity-environment` folder. 
+
+you have tow ways:
+
+- 3DBall.exe in python path has built for window platform,you can use it to test .
+- or you can build it with Unity3D(2017-1.0f3 version) as follows:
+  - load the package: unity-environment
+  - enter the unity editor, click menu [file/Build Settings] and select target platform:window and archtecture:x86_64 
+  - click build button to generate exe file.
+  
 
 ## Training your Agents
 
